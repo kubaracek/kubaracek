@@ -7,14 +7,14 @@ I'm a Fullstack Developer and DevOps engineer originally from
 <b>Czech Republic</b>, currently living in the heart of the
 <img src="https://cdn-icons-png.flaticon.com/128/9140/9140319.png" width="13"/> Alps in
 <img src="https://cdn-icons-png.flaticon.com/128/3373/3373278.png" width="13"/>
-<b>Northern Italy</b>.<br /><br />
+<b>Northern Italy</b>.<br />
 
 By day, I build robust systems. By night, you'll likely find me working on side projects,
-tinkering with my custom <b>variometer</b> for hang gliding, or exploring game development in <b>Godot</b> and <b>Rust</b>.<br /><br />
+tinkering with my custom <b>variometer</b> for hang gliding, or exploring game development in <b>Godot</b> and <b>Rust</b>.<br />
 
 When I’m not in front of a keyboard
 <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="13"/>,
-I’m probably flying above the mountains with my <b>hang glider</b> or enjoying the outdoors.<br /><br />
+I’m probably flying above the mountains with my <b>hang glider</b> or enjoying the outdoors.<br />
 </p>
 <h3>Things I code / Pick your Pokemon</h3>
 <p>
